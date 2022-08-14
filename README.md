@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alinainakita
-- 💳 I’m a consultant in the fintech (focusing on payment system infrastucture).
+- 💳 I’m a consultant in the fintech space (focusing on payment system infrastucture).
 - 🐎 Currently improving my skills around HTML, CSS, JS, API, React, and more! Oh, and horseback riding, too.
-- 💞️ I fell in love with coding after starting my journey with SheCodes.
+- 💞️ I fell in love with coding after starting my journey with SheCodes. (Thanks, Matt!)
 - 📫 How to reach me: https://www.linkedin.com/in/alina-varvarici/ 
 
 <!---
